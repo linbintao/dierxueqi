@@ -24,7 +24,7 @@ public class Distance {
         //设置字体
         Font font = new Font("宋体",Font.BOLD, 20);
         //画笔获取颜色，字体
-        graphics.setColor(Color.GREEN);
+        graphics.setColor(Color.BLUE);
         graphics.setFont(font);
         //画一个长为1024，宽为768的矩形
         graphics.fillRect(0,0,1024,768);
